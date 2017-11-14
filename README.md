@@ -1,18 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome!
+The purpose of this website is to present viewers with 360 photos.
+### What are 360 photos?
 
-You can use the [editor on GitHub](https://github.com/Aveyonce/Aveyonce.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Flat, two-dimensional photos are old news. The future is 360-degree photos that let you look around in any direction from a single standing position. You can share 360-degree photos everywhere from Facebook to Street View, and unlike 360 video, they can be easily snapped using the phone you’ve already got.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```what are 360 photos?
+360 photo examples
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+ https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.airpano.com%2Ffiles%2Fvideo-piter-savior-on-blood-01.jpg&imgrefurl=http%3A%2F%2Fwww.airpano.com%2F360-videos.php&docid=iLR3eTv2ZB2hJM&tbnid=RAkWFJ_lixdH7M%3A&vet=10ahUKEwiorLeRx77XAhXD54MKHW4fBPgQMwiBASgCMAI..i&w=523&h=186&safe=strict&bih=974&biw=1920&q=360%20photo&ved=0ahUKEwiorLeRx77XAhXD54MKHW4fBPgQMwiBASgCMAI&iact=mrc&uact=82
 ### Header 3
 
 - Bulleted
