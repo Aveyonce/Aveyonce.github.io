@@ -6,7 +6,7 @@ Flat, two-dimensional photos are old news. The future is 360-degree photos that 
 
 ```markdown
 ###360
-<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/wnxw" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/ybee" ></script>
 ### Header 3
 
 - Bulleted
