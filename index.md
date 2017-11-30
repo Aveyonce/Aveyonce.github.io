@@ -14,4 +14,4 @@ My 360 Photos
 The photos above are 360 photos that were taken by Mrs.Qualls 4th period programming students.
 
 ### Bunny
-![filter](bunny.jpg?raw=true "Bunny Filter")
+![filter](bunny.png?raw=true "Bunny Filter")
