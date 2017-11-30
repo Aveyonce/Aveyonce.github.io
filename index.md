@@ -12,3 +12,6 @@ My 360 Photos
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/axlw" ></script>
 
 The photos above are 360 photos that were taken by Mrs.Qualls 4th period programming students.
+
+### Bunny
+![filter](bunny.jpg?raw=true "Bunny Filter")
