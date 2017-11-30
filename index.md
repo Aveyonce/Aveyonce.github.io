@@ -19,6 +19,6 @@ The filter can be of a square or oblong shape and mounted in a holder accessory,
 
 ### Filter
 My Bunny Filter
-![filter](bunny(2).png?raw=true "Optional Title")
+![filter](bunny (2).png?raw=true "Optional Title")
 
 This is a filter created by me using Vectr, which is an online free graphics software used to create graphics easily and intuitively. 
