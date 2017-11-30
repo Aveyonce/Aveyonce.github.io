@@ -17,5 +17,8 @@ The photos above are 360 photos that were taken by Mrs.Qualls 4th period program
 
 The filter can be of a square or oblong shape and mounted in a holder accessory, or, more commonly, a glass or plastic disk in a metal or plastic ring frame, which can be screwed into the front of or clipped onto the camera lens. Filters modify the images recorded.
 
-### My Bunny Filter
-![filter](bunny.png?raw=true "Bunny Filter")
+### Filter
+My Bunny Filter
+![filter](Bunny.png?raw=true "Optional Title")
+
+This is a filter created by me using Vectr, which is an online free graphics software used to create graphics easily and intuitively. 
