@@ -1,5 +1,5 @@
 ## Welcome!
-The purpose of this website is to present viewers with 360 photos.
+The purpose of this website is to present viewers with images created by me using techstart
 ### What are 360 photos?
 
 Flat, two-dimensional photos are old news. The future is 360-degree photos that let you look around in any direction from a single standing position. You can share 360-degree photos everywhere from Facebook to Street View, and unlike 360 video, they can be easily snapped using the phone you’ve already got.
@@ -13,5 +13,9 @@ My 360 Photos
 
 The photos above are 360 photos that were taken by Mrs.Qualls 4th period programming students.
 
-### Bunny Filter
+### What Are Photo Filters?
+
+The filter can be of a square or oblong shape and mounted in a holder accessory, or, more commonly, a glass or plastic disk in a metal or plastic ring frame, which can be screwed into the front of or clipped onto the camera lens. Filters modify the images recorded.
+
+### My Bunny Filter
 ![filter](bunny.png?raw=true "Bunny Filter")
